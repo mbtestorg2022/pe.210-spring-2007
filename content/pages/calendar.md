@@ -4,12 +4,123 @@ title: Calendar
 uid: 7afda057-7959-674d-3716-91d14e50326a
 ---
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Classroom 1 / Introduction to the classroom {{< br >}}{{< br >}} Pool 1 / Swim test and pool basics {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Classroom 2 / Physics of diving {{< br >}}{{< br >}} Pool 2 / Introduction to SCUBA {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Classroom 3 / Physics of diving (cont.) {{< br >}}{{< br >}} Pool 3 / Skills review and new skills {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Classroom 4 / Care and planning in SCUBA {{< br >}}{{< br >}} Pool 4 / Recovery and safety techniques {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Classroom 5 / Beyond diving: Advanced topics {{< br >}}{{< br >}} Pool 5 / Recovery and safety techniques (cont.) {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Classroom 6 / The ocean environment {{< br >}}{{< br >}} Pool 6 / Advanced techniques {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Classroom 7 / Exam review {{< br >}}{{< br >}} Pool 7 / Review {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 1 / Introduction to the classroom
+
+Pool 1 / Swim test and pool basics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 2 / Physics of diving
+
+Pool 2 / Introduction to SCUBA
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 3 / Physics of diving (cont.)
+
+Pool 3 / Skills review and new skills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 4 / Care and planning in SCUBA
+
+Pool 4 / Recovery and safety techniques
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 5 / Beyond diving: Advanced topics
+
+Pool 5 / Recovery and safety techniques (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 6 / The ocean environment
+
+Pool 6 / Advanced techniques
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 7 / Exam review
+
+Pool 7 / Review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

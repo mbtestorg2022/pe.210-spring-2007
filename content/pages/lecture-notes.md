@@ -6,12 +6,288 @@ uid: e4b32797-c567-364b-f241-7d84b59e16ae
 
 This section includes video of the classroom sessions. Poolside and underwater video clips of specific skills can be found in the [Video]({{< baseurl >}}/pages/video) section.
 
-| WEEK # | TOPICS | VIDEOS |
-| --- | --- | --- |
-| 1 | {{< h 3 >}}Classroom 1 / Introduction to SCUBA{{< /h >}}   {{< br >}}{{< br >}} *   Introduction to instructor and each other{{< br >}}*   Basic classroom procedures and paperwork{{< br >}}*   Why do you want to do SCUBA?{{< br >}}*   History of SCUBA{{< br >}}*   Fitness in general and how it relates to SCUBA in specific{{< br >}}*   Instincts and habits{{< br >}}*   Equalization{{< br >}}*   Introduction to and selection of equipment (mask, snorkel, fins) {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Pool 1 / Swim test and pool basics{{< /h >}}   {{< br >}}{{< br >}} *   SCUBA swim test{{< br >}}*   Small pool mask and snorkel training{{< br >}}*   Skin diving skills{{< br >}}*   Buoyancy compensator introduction (inflation and deflation){{< br >}}*   Equalization{{< br >}}*   Fin fitting if necessary{{< br >}}*   Giant stride entry{{< br >}}*   Flutter kick{{< br >}}*   Surface dives{{< br >}}*   Displacement mask and snorkel clearing {{< br >}}{{< br >}}  | ([MP4 - 181 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-05apr2007-220k.mp4)) |
-| 2 | {{< h 3 >}}Classroom 2 / Physics of diving{{< /h >}}   {{< br >}}{{< br >}} *   Continue introduction to equipment (tanks, BCs, regulators){{< br >}}*   Introduction to physics as it relates to diving (gas laws, water compared to air, buoyancy, pressure, volume, humidity, air consumption rates){{< br >}}*   Hand signals to be used underwater {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Pool 2 / Introduction to SCUBA{{< /h >}}   {{< br >}}{{< br >}} *   Continue swim test{{< br >}}*   Learn to connect regulator and BC to tank{{< br >}}*   Buddy check{{< br >}}*   Entry and warmup (practicing flutter kick and surface dives) before going on SCUBA{{< br >}}*   Entry practice{{< br >}}*   Practice mask clearing and regulator recovery{{< br >}}*   Introduction to and practice of neutral buoyancy{{< br >}}*   Practice regulator recovery {{< br >}}{{< br >}}  | ([MP4 - 236 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-12apr2007-220k.mp4)) |
-| 3 | {{< h 3 >}}Classroom 3 / Physics of diving (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Continue introduction to equipment (wet suits and accessories, dry suits, and weights and weight belts){{< br >}}*   Continue with physics (direct and indirect effects of pressure on equipment and body){{< br >}}*   Oxygen toxicity{{< br >}}*   Review of physics problems to finish this section {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Pool 3 / Skills review and new skills{{< /h >}}   {{< br >}}{{< br >}} *   Review previous skills{{< br >}}*   Buddy check, entry, and warmup{{< br >}}*   Surface don and surface skills{{< br >}}*   Octopus use and ascents{{< br >}}*   Doff and don on the bottom{{< br >}}*   Continue practice of neutral buoyancy {{< br >}}{{< br >}}  | ([MP4 - 220 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-19apr2007-220k.mp4)) |
-| 4 | {{< h 3 >}}Classroom 4 / Care and planning in SCUBA{{< /h >}}   {{< br >}}{{< br >}} *   Decompression illness{{< br >}}*   Ingassing and outgassing{{< br >}}*   Introduction to dive tables {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Pool 4 / Recovery and safety techniques{{< /h >}}   {{< br >}}{{< br >}} *   Review previous skills{{< br >}}*   Use automatic air inflators{{< br >}}*   Buddy check, entry and warmup{{< br >}}*   Assisting tired diver rescues and tows{{< br >}}*   Ditch and recovery of equipment{{< br >}}*   Simulated emergency swimming ascents{{< br >}}*   Continue practice of neutral buoyancy {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | {{< h 3 >}}Classroom 5 / Beyond diving: Advanced topics{{< /h >}}   {{< br >}}{{< br >}} *   Completion of dive tables{{< br >}}*   Altitude diving{{< br >}}*   Flying before and after diving{{< br >}}*   Diving with computers{{< br >}}*   Sport diving limits for each certification level{{< br >}}*   Dive planning{{< br >}}*   Air consumption rates {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Pool 5 / Recovery and safety techniques (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Review previous skills{{< br >}}*   Do-si-do in small pool as an introduction to rescues{{< br >}}*   Weight belt use{{< br >}}*   Buddy check, entry, and warmup{{< br >}}*   Surface doff and don of weight belt{{< br >}}*   Rescue of unconscious victim{{< br >}}*   Review ditch and recovery and more complex situations{{< br >}}*   Continue practice of neutral buoyancy {{< br >}}{{< br >}}  | ([MP4 - 240 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-26apr2007-220k.mp4)) |
-| 6 | {{< h 3 >}}Classroom 6 / The ocean environment{{< /h >}}   {{< br >}}{{< br >}} *   First aid{{< br >}}*   Rescues{{< br >}}*   Compass use and navigation{{< br >}}*   Continuing education and specialty diving{{< br >}}*   Environmental factors and water movement{{< br >}}*   Marine life{{< br >}}*   Review of all class topics before exam{{< br >}}*   Final exam given {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Pool 6 / Advanced techniques{{< /h >}}   {{< br >}}{{< br >}} *   Review previous skills{{< br >}}*   Buddy check, entry, and warmup{{< br >}}*   M to M resuscitation{{< br >}}*   Rescue techniques with weight belts{{< br >}}*   Alternate kicks{{< br >}}*   Counting kick cycles{{< br >}}*   Continue practice of neutral buoyancy {{< br >}}{{< br >}}  | ([MP4 - 137 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-03may2007-220k.mp4)) |
-| 7 | {{< h 3 >}}Classroom 7 / Exam review{{< /h >}}   {{< br >}}{{< br >}} *   Grade and review exam {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Pool 7 / Review{{< /h >}}   {{< br >}}{{< br >}} *   Review previous skills{{< br >}}*   Bailout techniques{{< br >}}*   Fun and games{{< br >}}*   Kick cycles{{< br >}}*   Water portion of exam in the ocean (end of week) {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+VIDEOS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Classroom 1 / Introduction to SCUBA
+
+  
+
+*   Introduction to instructor and each other
+*   Basic classroom procedures and paperwork
+*   Why do you want to do SCUBA?
+*   History of SCUBA
+*   Fitness in general and how it relates to SCUBA in specific
+*   Instincts and habits
+*   Equalization
+*   Introduction to and selection of equipment (mask, snorkel, fins)
+
+  
+
+### Pool 1 / Swim test and pool basics
+
+  
+
+*   SCUBA swim test
+*   Small pool mask and snorkel training
+*   Skin diving skills
+*   Buoyancy compensator introduction (inflation and deflation)
+*   Equalization
+*   Fin fitting if necessary
+*   Giant stride entry
+*   Flutter kick
+*   Surface dives
+*   Displacement mask and snorkel clearing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 181 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-05apr2007-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Classroom 2 / Physics of diving
+
+  
+
+*   Continue introduction to equipment (tanks, BCs, regulators)
+*   Introduction to physics as it relates to diving (gas laws, water compared to air, buoyancy, pressure, volume, humidity, air consumption rates)
+*   Hand signals to be used underwater
+
+  
+
+### Pool 2 / Introduction to SCUBA
+
+  
+
+*   Continue swim test
+*   Learn to connect regulator and BC to tank
+*   Buddy check
+*   Entry and warmup (practicing flutter kick and surface dives) before going on SCUBA
+*   Entry practice
+*   Practice mask clearing and regulator recovery
+*   Introduction to and practice of neutral buoyancy
+*   Practice regulator recovery
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 236 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-12apr2007-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Classroom 3 / Physics of diving (cont.)
+
+  
+
+*   Continue introduction to equipment (wet suits and accessories, dry suits, and weights and weight belts)
+*   Continue with physics (direct and indirect effects of pressure on equipment and body)
+*   Oxygen toxicity
+*   Review of physics problems to finish this section
+
+  
+
+### Pool 3 / Skills review and new skills
+
+  
+
+*   Review previous skills
+*   Buddy check, entry, and warmup
+*   Surface don and surface skills
+*   Octopus use and ascents
+*   Doff and don on the bottom
+*   Continue practice of neutral buoyancy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 220 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-19apr2007-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Classroom 4 / Care and planning in SCUBA
+
+  
+
+*   Decompression illness
+*   Ingassing and outgassing
+*   Introduction to dive tables
+
+  
+
+### Pool 4 / Recovery and safety techniques
+
+  
+
+*   Review previous skills
+*   Use automatic air inflators
+*   Buddy check, entry and warmup
+*   Assisting tired diver rescues and tows
+*   Ditch and recovery of equipment
+*   Simulated emergency swimming ascents
+*   Continue practice of neutral buoyancy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Classroom 5 / Beyond diving: Advanced topics
+
+  
+
+*   Completion of dive tables
+*   Altitude diving
+*   Flying before and after diving
+*   Diving with computers
+*   Sport diving limits for each certification level
+*   Dive planning
+*   Air consumption rates
+
+  
+
+### Pool 5 / Recovery and safety techniques (cont.)
+
+  
+
+*   Review previous skills
+*   Do-si-do in small pool as an introduction to rescues
+*   Weight belt use
+*   Buddy check, entry, and warmup
+*   Surface doff and don of weight belt
+*   Rescue of unconscious victim
+*   Review ditch and recovery and more complex situations
+*   Continue practice of neutral buoyancy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 240 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-26apr2007-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Classroom 6 / The ocean environment
+
+  
+
+*   First aid
+*   Rescues
+*   Compass use and navigation
+*   Continuing education and specialty diving
+*   Environmental factors and water movement
+*   Marine life
+*   Review of all class topics before exam
+*   Final exam given
+
+  
+
+### Pool 6 / Advanced techniques
+
+  
+
+*   Review previous skills
+*   Buddy check, entry, and warmup
+*   M to M resuscitation
+*   Rescue techniques with weight belts
+*   Alternate kicks
+*   Counting kick cycles
+*   Continue practice of neutral buoyancy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 137 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-03may2007-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Classroom 7 / Exam review
+
+  
+
+*   Grade and review exam
+
+  
+
+### Pool 7 / Review
+
+  
+
+*   Review previous skills
+*   Bailout techniques
+*   Fun and games
+*   Kick cycles
+*   Water portion of exam in the ocean (end of week)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

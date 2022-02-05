@@ -25,10 +25,123 @@ Readings Schedule
 
 The schedule below shows the readings from the main text for each week.
 
-| WEEK # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Classroom 1 / Introduction to the classroom {{< br >}}{{< br >}} Pool 1 / Swim test and pool basics {{< br >}}{{< br >}}  | Chapters 1, 2, 3, and 4 |
-| 2 |  {{< br >}}{{< br >}} Classroom 2 / Physics of diving {{< br >}}{{< br >}} Pool 2 / Introduction to SCUBA {{< br >}}{{< br >}}  | Review chapters 2, 3, and 4 |
-| 3 |  {{< br >}}{{< br >}} Classroom 3 / Physics of diving (cont.) {{< br >}}{{< br >}} Pool 3 / Skills review and new skills {{< br >}}{{< br >}}  | Chapters 5 and 7 |
-| 4 |  {{< br >}}{{< br >}} Classroom 4 / Care and planning in SCUBA {{< br >}}{{< br >}} Pool 4 / Recovery and safety techniques {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapters 6, 9, and appendix C {{< br >}}{{< br >}} Review chapter 7 and work on dive table problems {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Classroom 5 / Beyond diving: Advanced topics {{< br >}}{{< br >}} Pool 5 / Recovery and safety techniques (cont.) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapters 6, 8, and 9 {{< br >}}{{< br >}} Review chapters 4 and 7 {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 1 / Introduction to the classroom
+
+Pool 1 / Swim test and pool basics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1, 2, 3, and 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 2 / Physics of diving
+
+Pool 2 / Introduction to SCUBA
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Review chapters 2, 3, and 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 3 / Physics of diving (cont.)
+
+Pool 3 / Skills review and new skills
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 5 and 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 4 / Care and planning in SCUBA
+
+Pool 4 / Recovery and safety techniques
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapters 6, 9, and appendix C
+
+Review chapter 7 and work on dive table problems
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classroom 5 / Beyond diving: Advanced topics
+
+Pool 5 / Recovery and safety techniques (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapters 6, 8, and 9
+
+Review chapters 4 and 7
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
